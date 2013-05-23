@@ -1,0 +1,23 @@
+{
+  "name": "mecab-simple",
+  "description": "A wrapper around the imagemagick cli",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yosuke Morimoto",
+    "email": "yosuke@likepolygon.com"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YosukeM/node-mecab-simple.git"
+  },
+  "engine": [
+    "node >=0.9"
+  ],
+  "main": "mecab-simple",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+}
