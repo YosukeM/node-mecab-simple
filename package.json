@@ -1,6 +1,6 @@
 {
   "name": "mecab-simple",
-  "description": "A wrapper around the imagemagick cli",
+  "description": "A simple MeCab binding",
   "version": "0.1.0",
   "author": {
     "name": "Yosuke Morimoto",
@@ -19,5 +19,5 @@
   "main": "mecab-simple",
   "dependencies": {},
   "devDependencies": {},
-  "optionalDependencies": {},
+  "optionalDependencies": {}
 }
